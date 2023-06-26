@@ -1,0 +1,17 @@
+1) rafce plus enter is a boiler plate for any .js fundamentals
+
+2) installed  npm package call react-icons
+
+
+
+3) Instead of importing each and every file in App.js from components folder,
+we can create index.js inside a components folder and use that file to export all the other files.
+so in App.js we only import index.js from inside the component folder
+
+
+4) Components folder for smaller component and Container folder is for bigger container which contains multiple component at the same time
+
+
+5) For CSS class naming we are using BEM- Block Element Modifier
+
+6) we can get the measurements from figma file by clicking and inspecting on it
